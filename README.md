@@ -10,25 +10,18 @@
 
 Before using this software:
 
-1. You must have installed jPBC
-
-http://gas.dia.unisa.it/projects/jpbc/#.Ved6Qfl_NBc
-
-2. You must update your Java distribution with the Java Cryptography 
-Extension (JCE) Unlimited Strength Jurisdiction Policy
-
+\begin{enumerate}
+\item You must have installed jPBC: http://gas.dia.unisa.it/projects/jpbc/#.Ved6Qfl_NBc
+\item You must update your Java distribution with the Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy
 http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
 
-3. This is a standalone implementation of DET-ABE, all code run on 
-   the same machine
-4. Parameter and keys are available for use in the "params" and "bsw" 
-   folders. 
-5. In this vesion, attributes as text string are supported (not 
-   duplicated).
-6. Source code for testing AES, CP-ABE, and DET-ABE are available in 
-   folder "test/bswabe/"
-7. More info about DET-ABE is found here:
+\item This is a standalone implementation of DET-ABE, all code run on the same machine
+\item Parameter and keys are available for use in the "params" and "bsw" folders. 
+\item In this vesion, attributes as text string are supported (not duplicated)
+\item Source code for testing AES, CP-ABE, and DET-ABE are available in folder "test/bswabe/"
+\item More info about DET-ABE is found here:
 http://link.springer.com/chapter/10.1007%2F978-3-319-24018-3_7
+\end{enumerate}
 
 If you find useful this code, please cite our article.
 
