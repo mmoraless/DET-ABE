@@ -21,5 +21,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.ht
 http://link.springer.com/chapter/10.1007%2F978-3-319-24018-3_7
 
 
-If you find useful this code, please cite our article.
+If you find useful this code, please cite our article:
+Miguel Morales Sandoval. (2016). DET-ABE: Java API for attribute-based encryption of content. Zenodo. 10.5281/zenodo.55340
 
