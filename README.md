@@ -1,15 +1,11 @@
 # DET-ABE-API
 
- This software is part of the --DET-ABE API--, a Java library  
- developed as part of the SCABE project (Secure Storage and Sharing 
+ This software is part of the --DET-ABE API--, a Java library developed as part of the SCABE project (Secure Storage and Sharing 
  of data in the Cloud by using  Attribute based encryption).
- The DET-ABE library is free software. This library is distributed 
- on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either expressed 
- or implied.
+ The DET-ABE library is free software. This library is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either expressed or implied.
  
  Copyright (c) Miguel Morales-Sandoval 
  morales.sandoval.miguel@gmail.com
-
 
 
 Before using this software:
@@ -22,7 +18,6 @@ http://gas.dia.unisa.it/projects/jpbc/#.Ved6Qfl_NBc
 Extension (JCE) Unlimited Strength Jurisdiction Policy
 
 http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
-
 
 3. This is a standalone implementation of DET-ABE, all code run on 
    the same machine
