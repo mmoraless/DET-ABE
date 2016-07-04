@@ -10,8 +10,8 @@
 
 Before using this software:
 
-1. You must have installed jPBC: http://gas.dia.unisa.it/projects/jpbc/#.Ved6Qfl_NBc
-There is an inconsistency when creating the pairing using curve parameters stored in a file. The current version of jPBC produce this error so you can use the version of jPBC .jar files used to write and test the DET-ABE.  You can find these files in this repository.
+1. You must have installed jPBC: http://gas.dia.unisa.it/projects/jpbc/#.Ved6Qfl_NBc.
+There is an inconsistency when creating the pairing using curve parameters stored in a file. The current version of jPBC produces this error so you can use the previous version of the jPBC .jar files.  You can find these files in this repository.
 2. You must update your Java distribution with the Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy
 http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html. This is in order to use encryption security levels of 128, 192, and 256 bits. 
 3. This is a standalone implementation of DET-ABE, all code run on the same machine
