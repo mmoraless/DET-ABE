@@ -22,5 +22,22 @@ http://link.springer.com/chapter/10.1007%2F978-3-319-24018-3_7
 
 
 If you find useful this code, please cite our article:
-Miguel Morales Sandoval. (2016). DET-ABE: Java API for attribute-based encryption of content. Zenodo. 10.5281/zenodo.55340
+
+@INPROCEEDINGS{Morales-Sandoval2015,
+author="Morales-Sandoval, Miguel
+and Diaz-Perez, Arturo",
+editor="Akram, Naeem Raja
+and Jajodia, Sushil",
+title="DET-ABE: A Java API for Data Confidentiality and Fine-Grained Access Control from Attribute Based Encryption",
+bookTitle="Information Security Theory and Practice: 9th IFIP WG 11.2 International Conference, WISTP 2015",
+year="2015",
+publisher="Springer International Publishing",
+address=" Heraklion, Crete, Greece",
+pages="104--119",
+isbn="978-3-319-24018-3",
+doi="10.1007/978-3-319-24018-3_7",
+url="http://dx.doi.org/10.1007/978-3-319-24018-3_7"
+}
+
+
 
